@@ -61,7 +61,7 @@ alert(input);
 ```
 ---
 ## 일급 함수
-### First=class citizen
+### First-class citizen
 
 - 변수, 매개변수, 리턴값으로 사용할 수 있는 데이터
 
