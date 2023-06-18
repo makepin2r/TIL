@@ -29,7 +29,17 @@ HTTP 요청(정보 교환)시 어떤 URI에 어떤 메소드를 사용할지에 
     👀 BODY란? 상대적으로 더 많은 정보를 감추어서(안전) 전송 가능하게 함
 - URI는 동사가 아닌 명사로만 구성한다.
 
-## 
+## URI 구성 원칙
+- 명확한 패턴
+1) 동사 X 명사만 사용
+2) '컬렉션'과 '고유 식별자'를 사용한다
+ex. movies, inception
+
+- URI 에서 생략한 동사는 목적에 맞는 HTTP 프로토콜을 사용함으로서 의미를 더 명확히 한다.
+ex. get movies / post movies
+
+- 검색 or 필터링 / 페이지네이션 시에는 기존 URI에 query parameters 사용
+ex. movies?min_rating=9.8
 
 ----
 #### 출처
@@ -37,4 +47,4 @@ HTTP 요청(정보 교환)시 어떤 URI에 어떤 메소드를 사용할지에 
 https://www.youtube.com/watch?v=C7yhysF_wAg
 https://www.youtube.com/watch?v=iOueE9AXDQQ
 https://www.youtube.com/watch?v=iOueE9AXDQQ
-(GraphQL)
+https://www.youtube.com/watch?v=4DxHX95Lq2U
