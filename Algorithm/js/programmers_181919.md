@@ -1,7 +1,7 @@
 # 프로그래머스 콜라츠 수열 만들기
-
+> 푼 날짜: 23. 09. 15
 ## 문제
-https://school.programmers.co.kr/learn/courses/30/lessons/181919
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181919)
 ![image](https://github.com/makepin2r/TIL/assets/39889583/fa5118e3-8a0c-40db-8378-99fd1f5198ba)
 
 ## 나의 풀이
