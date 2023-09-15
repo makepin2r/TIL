@@ -1,5 +1,5 @@
 # TCP, UDP
-
+> 인프런 김영한 강사님의 [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#)을 학습하고 정리한 내용입니다.
 ## 인터넷 프로토콜 스택의 4계층
 ![tcp_1](https://github.com/makepin2r/TIL/assets/39889583/410adf6a-ae7f-4422-84cf-f4203253d03f)
 ![tcp_2](https://github.com/makepin2r/TIL/assets/39889583/ee02f294-9a0d-40c4-90d6-c5540be3dbba)
