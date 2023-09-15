@@ -1,8 +1,8 @@
 # TCP, UDP
 
 ## 인터넷 프로토콜 스택의 4계층
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/20f6d6a4-572c-464c-964b-019174c59146/036e43ed-01ab-428c-8b89-4bbf31fc00e9/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/20f6d6a4-572c-464c-964b-019174c59146/b7604188-74af-4d8d-ad46-1cd8dc133da0/Untitled.png)
+![tcp_1](https://github.com/makepin2r/TIL/assets/39889583/410adf6a-ae7f-4422-84cf-f4203253d03f)
+![tcp_2](https://github.com/makepin2r/TIL/assets/39889583/ee02f294-9a0d-40c4-90d6-c5540be3dbba)
 (Ethernet frame: 물리적인 하드웨어 정보라고 생각하면 됨)
 - IP 패킷에는 출발지, 목적지의 IP 주소가 있다.
     - 패킷 = package + bucket
