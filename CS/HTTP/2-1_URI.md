@@ -46,3 +46,7 @@
 - **fragment**: html 내부 북마크 등에 사용됨
   - 서버에 전송되지 않음
   - 자주 사용되지 않음
+
+---
+### 레퍼런스
+[ietf URI 공식 스펙](https://www.ietf.org/rfc/rfc3986.txt)
