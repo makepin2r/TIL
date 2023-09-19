@@ -97,3 +97,4 @@ getThisBinding.bind(thisArg)(); // 실행하려면 명시적인 호출 필요
 - [MDN Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 - [MDN Function.prototype.call()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - [MDN Function.prototype.bind()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- https://www.zerocho.com/category/JavaScript/post/57433645a48729787807c3fd
