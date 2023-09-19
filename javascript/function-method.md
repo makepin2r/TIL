@@ -8,7 +8,7 @@
 - 두 개의 인자를 받음
     1. this로 사용할 객체
     2. 인수 리스트
-         - `apply` : 배열 또는 유사 배열 객체
+         - `apply` : 배열 또는 [유사 배열 객체](https://github.com/makepin2r/TIL/blob/main/javascript/array-like-object.md)
          - `call` : 인수를 하나씩 받는다.
 ```javascript
 //Function.prototype.apply(thisArg[, argsArray])
