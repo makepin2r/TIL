@@ -19,3 +19,4 @@
 #### 레퍼런스
 - https://velog.io/@brgndy/%EB%9E%98%ED%8D%BC-%EA%B0%9D%EC%B2%B4Wrapper-Object%EB%9E%80
 - https://developer.mozilla.org/ko/docs/Glossary/Primitive
+- https://velog.io/@brgndy/%EB%9E%98%ED%8D%BC-%EA%B0%9D%EC%B2%B4Wrapper-Object%EB%9E%80
