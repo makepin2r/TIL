@@ -1,7 +1,7 @@
 # 프로그래머스 각도기 풀이
 > 푼 날짜: 2023. 09. 28
 ## 문제
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829)  
 ![image](https://github.com/makepin2r/TIL/assets/39889583/ebef38b9-dd40-4a90-a34e-20e3ae039204)
 
 ## 나의 풀이
